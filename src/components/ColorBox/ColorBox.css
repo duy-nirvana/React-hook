@@ -1,0 +1,10 @@
+.color-box {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  border-radius: 8px;
+  cursor: pointer;
+  -webkit-transition: all .5s ease-in-out 0s;
+  transition: all .5s ease-in-out 0s;
+}
+/*# sourceMappingURL=ColorBox.css.map */

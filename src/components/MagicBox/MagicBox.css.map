@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EAGT,OAAO,EAAE,YAAY;EACrB,KAAK,EAAE,KAAY;EACnB,MAAM,EAAE,KAAY;EACpB,aAAa,EAAE,GAAG;EAElB,UAAU,EAAE,sBAAsB;CACnC",
+    "sources": [
+        "MagicBox.scss"
+    ],
+    "names": [],
+    "file": "MagicBox.css"
+}

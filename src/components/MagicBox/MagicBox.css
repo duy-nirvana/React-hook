@@ -1,0 +1,9 @@
+.magic-box {
+  display: inline-block;
+  width: 100vw;
+  height: 100vh;
+  border-radius: 8px;
+  -webkit-transition: all .5s ease-in-out 0s;
+  transition: all .5s ease-in-out 0s;
+}
+/*# sourceMappingURL=MagicBox.css.map */
